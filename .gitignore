@@ -1,0 +1,6 @@
+spatialai_tutorial/ModernCpp/.gitignore*.out
+*.elf
+*.bin
+*.o
+*.so
+*.a
